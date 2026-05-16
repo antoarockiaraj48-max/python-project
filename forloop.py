@@ -4,5 +4,4 @@ c=a+b
 print("sum of a and b is",c)
 
 
-for i in range(100):
-    print("hi")
+
