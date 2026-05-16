@@ -1,2 +1,8 @@
+a=int(input("Enter a number:"))
+b=int(input("Enter b number:"))
+c=a+b
+print("sum of a and b is",c)
+
+
 for i in range(100):
     print("hi")
